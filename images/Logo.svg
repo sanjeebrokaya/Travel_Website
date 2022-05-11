@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="239" height="80" viewBox="0 0 239 80">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_1" data-name="Rectangle 1" width="262" height="71"/>
+    </clipPath>
+    <clipPath id="clip-logo">
+      <rect width="239" height="80"/>
+    </clipPath>
+  </defs>
+  <g id="logo" clip-path="url(#clip-logo)">
+    <g id="Logo-2" data-name="Logo" transform="translate(-11 5)" clip-path="url(#clip-path)">
+      <text id="Travelmandu" transform="translate(19 51)" fill="#fff700" font-size="37" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0" fill="#000">Travel</tspan><tspan y="0" fill="#fff700">mandu</tspan></text>
+    </g>
+  </g>
+</svg>
