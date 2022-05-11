@@ -4,6 +4,12 @@ body {
   margin-left: 5%;
   font-family: Montserrat;
 }
+@media only screen and(max-width:768px) {
+  body{
+    width: 100%;
+  }
+}
+
 
 .bg-img {
   background-image: url(images/hills.jpg);
@@ -259,6 +265,22 @@ footer {
 .footer-right{
   margin-right: 5%;
 }
+
+.mapouter {
+  margin-top: 9%;
+  position: relative;
+  text-align: right;
+  height: 100%;
+  width: 100%;
+}
+
+.gmap_canvas {
+  overflow: hidden;
+  background: none !important;
+  height: 100%;
+  width: 100%;
+}
+
 
 .bottom_container {
   margin-right: -5.5% !important;
