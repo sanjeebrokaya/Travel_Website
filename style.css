@@ -3,8 +3,6 @@ body {
   margin-right: 5%;
   margin-left: 5%;
   font-family: Montserrat;
-
-
 }
 
 .bg-img {
@@ -111,6 +109,11 @@ a {
   box-shadow: 2px 2px 10px black;
   border-radius: 10px;
   cursor: pointer;
+}
+
+#searchbtn:hover{
+background-color: #1575a8;
+
 }
 
 .heading1 {
