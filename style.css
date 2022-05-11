@@ -35,6 +35,7 @@ nav {
 
 .logoimg {
   margin-left: 5%;
+  cursor: pointer;
 }
 
 ul {
@@ -109,6 +110,7 @@ a {
   margin-left: 0px;
   box-shadow: 2px 2px 10px black;
   border-radius: 10px;
+  cursor: pointer;
 }
 
 .heading1 {
@@ -131,6 +133,7 @@ a {
   width: 25%;
   float: left;
   align-items: center;
+  cursor: pointer;
 }
 
 div.gallery img {
@@ -179,10 +182,12 @@ div.desc {
   margin-left: 2%;
   margin-bottom: 3%;
   display: inline-block;
+  cursor: pointer;
 }
 
 #icons {
   color: #22b0fc;
+  cursor: pointer;
 }
 
 .row1_destinations {
